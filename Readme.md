@@ -111,8 +111,11 @@ const hasibul = {
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Hasibul50&repo=your-project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8)](https://github.com/Hasibul50/your-project-1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Hasibul50&repo=your-project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8)](https://github.com/Hasibul50/your-project-2)
+| 🎬 XMovies | 🌐 Portfolio |
+|---|---|
+| A React Native movie app | My personal web dev portfolio |
+| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) |
+| [View Repo →](https://github.com/Hasibul50/XMovies-React-Native) | [View Repo →](https://github.com/Hasibul50/webDev-portfolio) |
 
 </div>
 
